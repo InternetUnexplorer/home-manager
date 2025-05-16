@@ -226,6 +226,7 @@ let
       ./programs/pay-respects.nix
       ./programs/pazi.nix
       ./programs/pet.nix
+      ./programs/pgcli.nix
       ./programs/pidgin.nix
       ./programs/pistol.nix
       ./programs/piston-cli.nix
@@ -233,6 +234,7 @@ let
       ./programs/poetry.nix
       ./programs/powerline-go.nix
       ./programs/pqiv.nix
+      ./programs/ptyxis.nix
       ./programs/pubs.nix
       ./programs/pyenv.nix
       ./programs/pylint.nix
@@ -490,6 +492,7 @@ let
       ./services/xsuspender.nix
       ./services/yubikey-agent.nix
       ./systemd.nix
+      ./dbus.nix
       ./targets/darwin
       ./targets/generic-linux.nix
       ./wayland.nix
